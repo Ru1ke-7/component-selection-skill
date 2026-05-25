@@ -1,6 +1,6 @@
 # Component Selection Skill
 
-Claude Code skill for electronic component selection and sourced CSV shortlist generation.
+Skill for electronic component selection and sourced CSV shortlist generation.
 
 The skill helps an agent clarify hardware requirements, search preferred component sources, compare candidates, and produce a CSV containing candidate part numbers, dynamic parameter columns, production/lifecycle status, datasheet links, risks, validation notes, and ranking scores.
 
